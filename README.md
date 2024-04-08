@@ -4,3 +4,5 @@
 # [Born2beRoot (125/100)](https://github.com/ChristianFidalgoAreste/Born2beroot)
 # [ft_printf (125/100)](https://github.com/arzelcm/ft_printf)
 # [get_next_line (125/100)](https://github.com/arzelcm/get_next_line)
+# [pipex (125/100)](https://github.com/arzelcm/pipex)
+# [so_long (WIP)](https://github.com/arzelcm/so_long)
