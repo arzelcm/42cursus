@@ -7,4 +7,5 @@
 # [pipex (125/100)](https://github.com/arzelcm/pipex)
 # [so_long (125/100)](https://github.com/arzelcm/so_long)
 # [push_swap (84/100)](https://github.com/arzelcm/push_swap)
-# [minishell (WIP)](https://github.com/arzelcm/minishell)
+# [minishell (125/100)](https://github.com/arzelcm/minishell)
+# [Philosophers (WIP)](https://github.com/arzelcm/Philosophers)
