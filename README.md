@@ -9,4 +9,4 @@
 # [push_swap (84/100)](https://github.com/arzelcm/push_swap)
 # [minishell (125/100)](https://github.com/arzelcm/minishell)
 # [Philosophers (100/100)](https://github.com/arzelcm/Philosophers)
-# [miniRT (WIP)](https://github.com/cfareste/MiniRT)
+# [miniRT (125/100)](https://github.com/cfareste/MiniRT)
