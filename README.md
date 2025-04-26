@@ -11,3 +11,4 @@
 # [Philosophers (100/100)](https://github.com/arzelcm/Philosophers)
 # [miniRT (125/100)](https://github.com/cfareste/MiniRT)
 # [NetPractice (100/100)](https://github.com/lpaube/NetPractice)
+# [CPP Modules (5/10)](https://github.com/arzelcm/cpp-modules.git)
